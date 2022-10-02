@@ -2,6 +2,8 @@
 
 ## Installazione
 
+Video: [https://youtu.be/ysIffnNJILA](https://youtu.be/ysIffnNJILA)
+
 ### Windows
 
 Scaricare la Full Edition di Laragon dal sito
