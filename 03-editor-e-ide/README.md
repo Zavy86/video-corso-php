@@ -2,4 +2,4 @@
 
 ## Editor e IDE
 
-Video: [https://youtu.be/xxx](https://youtu.be/xxx)
+Video: [https://youtu.be/k_oUyWv7o3g](https://youtu.be/k_oUyWv7o3g)
