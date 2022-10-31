@@ -11,3 +11,4 @@ Video corso sull'ultima versione del linguaggio di scripting PHP.
   * [Introduzione](/01-introduzione/)
   * [Installazione dell'ambiente di sviluppo](/02-installazione/)
   * [Editor e IDE (Integrated Development Environment)](/03-editor-e-ide/)
+  * [Sintassi ed Integrazione nell'HTML](/04-sintassi-ed-integrazione/)
