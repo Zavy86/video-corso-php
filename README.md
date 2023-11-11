@@ -12,3 +12,7 @@ Video corso sull'ultima versione del linguaggio di scripting PHP.
   * [Installazione dell'ambiente di sviluppo](/02-installazione/)
   * [Editor e IDE (Integrated Development Environment)](/03-editor-e-ide/)
   * [Sintassi ed Integrazione nell'HTML](/04-sintassi-ed-integrazione/)
+  
+  
+  * [Sviluppare con Docker](/31-sviluppare-con-docker/)
+  * [Installazione di Composer](/32-installazione-di-composer/)
