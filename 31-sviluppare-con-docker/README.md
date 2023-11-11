@@ -2,4 +2,4 @@
 
 ## Sviluppare con Docker
 
-Video: [https://youtu.be/8CYKGOxu8Ps](https://youtu.be/8CYKGOxu8Ps)
+Video: [https://youtu.be/VQXLTbEe51s](https://youtu.be/VQXLTbEe51s)
