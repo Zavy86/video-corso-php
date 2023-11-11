@@ -5,6 +5,7 @@ Video corso sull'ultima versione del linguaggio di scripting PHP.
 ## Autore
 
 * Manuel Zavatta ([Zavy.im](https://zavy.im/))
+* { Devs Channel } ([https://www.youtube.com/@Zavy86](https://www.youtube.com/channel/UCSuMyjQK6SatyhJfhXs2qVQ/))
 
 ## Video
 
