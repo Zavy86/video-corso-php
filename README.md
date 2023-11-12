@@ -23,7 +23,7 @@ Video corso sull'ultima versione del linguaggio di scripting PHP.
   * [Array](/videos/12-array/)
   * [Espressioni](/videos/13-espressioni/)
   * [Operatori](/videos/14-operatori/)
-  * [Espressioni Condizionali (if, else)](/videos/15-espressioni-condizionali/)
+  * [Condizioni (if, else)](/videos/15-espressioni-condizionali/)
   * [Cicli (foreach, for, do, while)](/videos/16-cicli/)
   * [Deviatore (switch)](/videos/17-deviatore/)
   * [Corrispondenza (match)](/videos/18-corrispondenza/)
