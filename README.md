@@ -1,43 +1,50 @@
 # Video corso PHP 8
 
-Video corso sull'ultima versione del linguaggio di scripting PHP.
+> Video corso sull'ultima versione del linguaggio di scripting PHP.
 
 ## Autore
 
-* Manuel Zavatta ([Zavy.im](https://zavy.im/))
-* { Devs Channel } ([https://www.youtube.com/@Zavy86](https://www.youtube.com/channel/UCSuMyjQK6SatyhJfhXs2qVQ/))
+* Manuel Zavatta [ [Zavy.im](https://zavy.im/) <[manuel.zavatta@gmail.com](mailto://manuel.zavatta@gmail.com)> ]
+* YouTube { Devs Channel } [ [https://www.youtube.com/@Zavy86](https://www.youtube.com/channel/UCSuMyjQK6SatyhJfhXs2qVQ/) ]
 
-## Video
+## Sezioni
 
-  * [Introduzione](/videos/01-introduzione/)
-  * [Installazione dell'ambiente di sviluppo](/videos/02-installazione/)
-  * [Editor e IDE (Integrated Development Environment)](/videos/03-editor-e-ide/)
-  * [Sintassi ed Integrazione nell'HTML](/videos/04-sintassi-ed-integrazione/)
-  * [Costanti e Variabili](/videos/05-costanti-e-variabili/)
-  * [Tipologie di Dati](/videos/06-tipologie-di-dati/)
-  * [Boolean](/videos/07-boolean/)
-  * [Integer](/videos/08-integer/)
-  * [Float](/videos/09-float/)
-  * [String](/videos/10-string/)
-  * [Null](/videos/11-null/)
-  * [Array](/videos/12-array/)
-  * [Espressioni](/videos/13-espressioni/)
-  * [Operatori](/videos/14-operatori/)
-  * [Condizioni (if, else)](/videos/15-espressioni-condizionali/)
-  * [Cicli (foreach, for, do, while)](/videos/16-cicli/)
-  * [Deviatore (switch)](/videos/17-deviatore/)
-  * [Corrispondenza (match)](/videos/18-corrispondenza/)
-  * [Return, Declare, GoTo](/videos/19-return-declare-goto/)
-  * [Includere altri Scripts](/videos/20-includere-altri-scripts/)
-  * [Funzioni](/videos/21-funzioni/)
-  * [Parametri ed Argomenti](/videos/22-parametri-ed-argomenti/)
-  * [Visibilità delle Variabili](/videos/23-visibilita-delle-variabili/)
-  * [Tipologie di Funzioni](/videos/24-tipologie-di-funzioni/)
-  * [Funzioni degli Array](/videos/25-funzioni-degli-array/)
-  * [Gestione dei Files](/videos/26-gestione-dei-files/)
-  * [Date, ore e fusi orari](/videos/27-date-ore-e-fusi-orari/)
-  * [Gestione degli Errori](/videos/28-gestione-degli-errori/)
-  * [Configurazione dell'Interprete](/videos/29-configurazione-dell-interprete/)
-  * [Configurazione di Apache](/videos/30-configurazione-di-apache/)
-  * [Sviluppare con Docker](/videos/31-sviluppare-con-docker/)
-  * [Installazione di Composer](/videos/32-installazione-di-composer/)
+* [Introduzione](/sections/01-introduzione/)
+* [Installazione dell'ambiente di sviluppo](/sections/02-installazione/)
+* [Editor e IDE (Integrated Development Environment)](/sections/03-editor-e-ide/)
+* [Sintassi ed Integrazione nell'HTML](/sections/04-sintassi-ed-integrazione/)
+* [Costanti e Variabili](/sections/05-costanti-e-variabili/)
+* [Tipologie di Dati](/sections/06-tipologie-di-dati/)
+* [Valori Booleani](/sections/07-boolean/)
+* [Numeri Interi](/sections/08-integer/)
+* [Numeri in virgola mobile](/sections/09-float/)
+* [Stringhe di testo](/sections/10-string/)
+* [Il valore nullo](/sections/11-null/)
+* [Liste ed Arrays](/sections/12-array/)
+* [Espressioni](/sections/13-espressioni/)
+* [Operatori](/sections/14-operatori/)
+* [Condizioni (if, else)](/sections/15-espressioni-condizionali/)
+* [Cicli (foreach, for, do, while)](/sections/16-cicli/)
+* [Deviatore (switch)](/sections/17-deviatore/)
+* [Corrispondenza (match)](/sections/18-corrispondenza/)
+* [Return, Declare, GoTo](/sections/19-return-declare-goto/)
+* [Includere altri Scripts](/sections/20-includere-altri-scripts/)
+* [Funzioni personalizzate](/sections/21-funzioni/)
+* [Parametri ed Argomenti](/sections/22-parametri-ed-argomenti/)
+* [Visibilità delle Variabili](/sections/23-visibilita-delle-variabili/)
+* [Tipologie di Funzioni](/sections/24-tipologie-di-funzioni/)
+* [Funzioni degli Array](/sections/25-funzioni-degli-array/)
+* [Gestione dei Files](/sections/26-gestione-dei-files/)
+* [Date, ore e fusi orari](/sections/27-date-ore-e-fusi-orari/)
+* [Gestione degli Errori](/sections/28-gestione-degli-errori/)
+* [Configurazione dell'Interprete](/sections/29-configurazione-dell-interprete/)
+* [Configurazione di Apache](/sections/30-configurazione-di-apache/)
+* [Sviluppare con Docker](/sections/31-sviluppare-con-docker/)
+* [Installazione di Composer](/sections/32-installazione-di-composer/)
+
+## Bonus
+
+* BioLink (procedural): https://youtu.be/KG11q3wusBI
+* Hosting Gratuito: https://youtu.be/__Sbwfn03oY
+* VPS Gratuita: https://youtu.be/grGPuVLfDOI
+* Docker Development Kit: https://youtu.be/3j5zoLeQ6qs
