@@ -1,0 +1,23 @@
+services:
+  app:
+    build:
+      context: ./..
+      dockerfile: docker/dockerfile
+    container_name: php-apache
+    volumes:
+      - ./..:/var/www/html
+      - ./xdebug.ini:/usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini
+    ports:
+      - "8081:80"
+  db:
+    image: mysql:8
+    container_name: db-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: database
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    volumes:
+      - ./mysql:/var/lib/mysql
+    ports:
+      - "33061:3306"
