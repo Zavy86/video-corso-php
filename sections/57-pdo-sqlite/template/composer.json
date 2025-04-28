@@ -1,0 +1,17 @@
+{
+	"version": "0.0.1",
+	"name": "zavy86/video-corso-php",
+	"description": "Video Corso PHP",
+	"type": "project",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Manuel Zavatta",
+			"email": "manuel.zavatta@gmail.com"
+		}
+	],
+	"require": {
+		"php": "^8.0.0"
+    "ext-pdo": "*"
+	}
+}
