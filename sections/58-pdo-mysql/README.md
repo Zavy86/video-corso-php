@@ -1,5 +1,5 @@
 # Video corso PHP 8
 
-## Database SQLite
+## Database MySQL
 
-Video: [https://youtu.be/IdRqZpWfLCw](https://youtu.be/IdRqZpWfLCw)
+Video: [https://youtu.be/SylcFU1ceWc](https://youtu.be/SylcFU1ceWc)
