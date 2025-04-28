@@ -42,6 +42,11 @@
 * [Sviluppare con Docker](/sections/31-sviluppare-con-docker/)
 * [Installazione di Composer](/sections/32-installazione-di-composer/)
 
+
+
+* [Database SQLite](/sections/57-pdo-sqlite/)
+* [Database MySQL](/sections/58-pdo-mysql/)
+
 ## Bonus
 
 * BioLink (procedural): https://youtu.be/KG11q3wusBI
